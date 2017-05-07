@@ -9,5 +9,5 @@ $(function() {
 		console.log("input=", input);
 
 		$("#output").text(input);
-	})
-})
+	});
+});
